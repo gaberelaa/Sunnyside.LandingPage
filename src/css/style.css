@@ -249,7 +249,7 @@ ul li {
     }
 
     .principalImg img {
-        content: url('./src/images/mobile/image-header.jpg');
+        content: url('./images/mobile/image-header.jpg');
     }
 
     .bannerText {
@@ -283,11 +283,11 @@ ul li {
     }
 
     .imagem1 img {
-        content: url('./src/images/mobile/image-graphic-design.jpg');
+        content: url('./images/mobile/image-graphic-design.jpg');
     }
 
     .imagem2 img {
-        content: url('./src/images/mobile/image-photography.jpg');
+        content: url('./images/mobile/image-photography.jpg');
     }
    
     #testimonials h2 {
