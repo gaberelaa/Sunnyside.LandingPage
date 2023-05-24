@@ -11,21 +11,10 @@ Os usuários devem ser capazes de:
 - Ver o layout ideal para o site, dependendo do tamanho da tela do dispositivo
 - Ver os estados de hover para todos os elementos interativos na página
 
-### Captura de tela do projeto
-
-- Desktop
-![](/design/desktop.png)
-
-- Smartphone
-![](/design/smartphone.png)
-
-- Tablet
-![](/design/tablet.png)
-
 ### Links
 
-- Solução Frontend Mentor: [Add solution URL here](https://your-solution-url.com)
-- Link do site: [Add live site URL here](https://your-live-site-url.com)
+- Solução Frontend Mentor: (https://www.frontendmentor.io/solutions/landing-page-sunnyside-html-css-and-bootstrap-pyWsXxDIDP)
+- Link do site: (https://gaberelaa.github.io/Sunnyside.LandingPage/)
 
 ### Desenvolvido com
 
